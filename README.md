@@ -1,7 +1,6 @@
-# Identifying binge watching behavior in serial content and exploring itsrelevance in Recommender Systems
-
-This is the repository of our article "Identifying binge watching behavior in serial content and exploring itsrelevance in Recommender Systems" submitted at RecSys 2021.
-The article is under review at the moment.
+# Bingewatching-features-recsys
+This is the repository of my MSc Thesis "Identifying binge watching behavior in serial content and exploring itsrelevance in Recommender Systems", with which I've graduated from Polytechnic University of Milan in April 2021. 
+This work was developed during an-8-month Data Science Research Internship at ContentWise.
 
 ## How to download the dataset?
 You can obtain the link to download the dataset by filling this [survey](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6_zxBj9DRzpKnC4jkclZQupUQ0szOVhTQ1FCT0tZSEw1T1g0RzVBRVhSSC4u).
