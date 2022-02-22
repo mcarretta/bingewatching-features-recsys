@@ -1,0 +1,11 @@
+name: bingewatching-recsys
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - anaconda=2020.02
+  - pyarrow=0.15.1
+  - holoviews=1.13.4
+  - fastparquet
+  - lightfm
