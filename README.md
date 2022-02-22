@@ -1,6 +1,14 @@
 # Bingewatching-features-recsys
 This is the repository of my MSc Thesis "Identifying binge watching behavior in serial content and exploring itsrelevance in Recommender Systems", with which I've graduated from Polytechnic University of Milan in April 2021. 
-This work was developed during an-8-month Data Science Research Internship at ContentWise.
+
+This work was developed during an-8-month Data Science Research Internship at ContentWise. 
+
+## Goals and Research Output
+This repo and my thesis have two main goals:
+* Identifying Binge-watchers and Binge-worthy series from an Open-Source industrial dataset, and craft features containing this information
+* Provide an implementation of different recommendation algorithms using these features, showing that we are able to improve the recommendation quality by leveraging Binge-watchers/Binge-worthy features
+
+Check out my thesis [here](https://drive.google.com/file/d/11nMV2tIOJRsq66qdGvukmsOybHTCbQTP/view?usp=sharing) and the [slide deck](https://drive.google.com/file/d/1bLFAss-o7Fsx_Y_lw8_t6ZAKuXZuA1yl/view?usp=sharing) to know more about the project!
 
 ## How to download the dataset?
 You can obtain the link to download the dataset by filling this [survey](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6_zxBj9DRzpKnC4jkclZQupUQ0szOVhTQ1FCT0tZSEw1T1g0RzVBRVhSSC4u).
@@ -179,5 +187,16 @@ Examples:
 ```bash
 (bingewatching-recsys): python run_results_gathering.py -s
 ```  
+
+## Disclaimer
+This is not an official ContentWise product.
+
+## Credits
+Base code and classes from:
+* Fernando Benjamín Pérez Maurera (fernandobenjamin.perez@polimi.it)
+* Maurizio Ferrari Dacrema (maurizio.ferrari@polimi.it)
+
+
+
 
  
